@@ -22,7 +22,7 @@ This will be shown in checkout pages, edit addresses pages, shipping calculator,
 = Supported Countries =
  * Chile
  * Nigeria
- *South Africa
+ * South Africa
 
 == Installation ==
 
